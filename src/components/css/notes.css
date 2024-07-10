@@ -1,0 +1,15 @@
+.group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    gap: 7px;
+}
+
+.group input, textarea{
+    background: transparent;
+    border: 1px solid #6c757d;
+    outline: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px;
+}
